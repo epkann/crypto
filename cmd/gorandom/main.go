@@ -13,7 +13,7 @@ import "syscall"
 import "runtime"
 import "golang.org/x/crypto/ssh/terminal"
 import "github.com/ogier/pflag"
-import "github.com/dsnet/crypto/rand"
+import "github.com/epkann/crypto/rand"
 import "github.com/dsnet/golib/strconv"
 
 func main() {
